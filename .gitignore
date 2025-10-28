@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+*.log
+src/metadata.json
+p2p_storage/
+.DS_Store
+Thumbs.db
