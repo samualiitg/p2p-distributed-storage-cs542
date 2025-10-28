@@ -1,4 +1,4 @@
-# 🧩 Peer-to-Peer Distributed Storage System (CS542 Course Project)
+# Peer-to-Peer Distributed Storage System (CS542 Course Project)
 
 **Submitted To:** Prof. Diganta Goswami 
 **Course:** CS542 - Distributed Systems 
@@ -78,7 +78,7 @@ cd p2p-distributed-storage-cs542
 pip install -r requirements.txt
 ```
 
-### 🚀 Running the System
+### Running the System
 
 #### 1. Start Peer Nodes
 Each peer runs a storage server process:
