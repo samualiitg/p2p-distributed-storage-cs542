@@ -135,10 +135,3 @@ All operations automatically handle encryption, replication, and metadata synchr
 - Cryptography.io library for RSA and Fernet encryption.
 
 ---
-
-## Repository
-
-**Project Repository:** 
-👉 [https://github.com/samualiitg/p2p-distributed-storage-cs542](https://github.com/samualiitg/p2p-distributed-storage-cs542)
-
----
