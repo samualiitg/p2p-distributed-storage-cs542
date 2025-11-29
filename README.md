@@ -6,16 +6,6 @@
 
 ---
 
-## Project Members
-
-| Name                       | Roll Number |
-|----------------------------|--------------|
-| Ritik Tiwari               | 254101048    |
-| Sai Ganesh Chatharasupalli | 254101051    |
-| Samual                     | 254101052    |
-
----
-
 ## Project Overview
 
 This project implements a **Peer-to-Peer Distributed Storage System over a LAN**, where multiple peers collaboratively contribute storage resources to achieve **fault tolerance, scalability, and data security**.
